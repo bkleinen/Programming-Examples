@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="83fde8d5-7503-4d1a-b919-541e373216ff" name="merlin@MERLINS 2011-11-03 02:26:10" runUser="merlins\merlin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Lokal" id="4903a97b-9659-459e-ab6a-751674e3c6a4">
+    <Description>Dies sind die standardmäßigen Testeinstellungen für einen lokalen Testlauf.</Description>
+    <Deployment userDeploymentRoot="D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="merlin_MERLINS 2011-11-03 02_26_10">
+      <DeploymentItem filename="D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\ClassLibrary1\bin\Debug\ClassLibrary1.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-11-03T02:26:10.5722705+01:00" queuing="2011-11-03T02:26:10.5752707+01:00" start="2011-11-03T02:26:10.6022723+01:00" finish="2011-11-03T02:26:11.0332969+01:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="d:\merlin\dropbox\dropbox\m1-programming\visualprojekte\tdd\testproject1\bin\debug\testproject1.dll" id="59863143-3238-122e-4d8a-637b491cc755">
+      <Execution id="4a50b6c5-6bde-435a-8c93-3cbd7f59dde3" />
+      <TestMethod codeBase="D:/MERLIN/DropBox/Dropbox/M1-Programming/VisualProjekte/TDD/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Nicht in einer Liste enthaltene Ergebnisse" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Alle geladenen Ergebnisse" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="59863143-3238-122e-4d8a-637b491cc755" executionId="4a50b6c5-6bde-435a-8c93-3cbd7f59dde3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="4a50b6c5-6bde-435a-8c93-3cbd7f59dde3" testId="59863143-3238-122e-4d8a-637b491cc755" testName="TestMethod1" computerName="MERLINS" duration="00:00:00.1388817" startTime="2011-11-03T02:26:10.6362742+01:00" endTime="2011-11-03T02:26:11.0112956+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4a50b6c5-6bde-435a-8c93-3cbd7f59dde3">
+      <Output>
+        <ErrorInfo>
+          <Message>Fehler bei "Assert.AreEqual". Erwartet:&lt;4&gt;. Tatsächlich:&lt;3&gt;. </Message>
+          <StackTrace>   bei TestProject1.UnitTest1.TestMethod1() in D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\TestProject1\UnitTest1.cs:Zeile 72.
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

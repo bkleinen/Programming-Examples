@@ -1,0 +1,8 @@
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\money\bin\Debug\cs-money.dll
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\money\bin\Debug\cs-money.pdb
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\money\bin\Debug\nunit.framework.dll
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\money\bin\Debug\nunit.framework.pdb
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\money\bin\Debug\nunit.framework.xml
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\money\obj\Debug\ResolveAssemblyReference.cache
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\money\obj\Debug\cs-money.dll
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\money\obj\Debug\cs-money.pdb

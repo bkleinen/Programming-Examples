@@ -1,0 +1,5 @@
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\TestingExamples\bin\Debug\TestingExamples.dll
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\TestingExamples\bin\Debug\TestingExamples.pdb
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\TestingExamples\obj\Debug\ResolveAssemblyReference.cache
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\TestingExamples\obj\Debug\TestingExamples.dll
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\TestingExamples\obj\Debug\TestingExamples.pdb

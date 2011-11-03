@@ -1,0 +1,8 @@
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\failures\obj\Debug\ResolveAssemblyReference.cache
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\failures\bin\Debug\cs-failures.dll
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\failures\bin\Debug\cs-failures.pdb
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\failures\bin\Debug\nunit.framework.dll
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\failures\bin\Debug\nunit.framework.pdb
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\failures\bin\Debug\nunit.framework.xml
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\failures\obj\Debug\cs-failures.dll
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\failures\obj\Debug\cs-failures.pdb

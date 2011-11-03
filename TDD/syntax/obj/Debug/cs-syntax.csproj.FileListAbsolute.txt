@@ -1,0 +1,8 @@
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\syntax\obj\Debug\ResolveAssemblyReference.cache
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\syntax\bin\Debug\cs-syntax.dll
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\syntax\bin\Debug\cs-syntax.pdb
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\syntax\bin\Debug\nunit.framework.dll
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\syntax\bin\Debug\nunit.framework.pdb
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\syntax\bin\Debug\nunit.framework.xml
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\syntax\obj\Debug\cs-syntax.dll
+D:\MERLIN\DropBox\Dropbox\M1-Programming\VisualProjekte\TDD\syntax\obj\Debug\cs-syntax.pdb

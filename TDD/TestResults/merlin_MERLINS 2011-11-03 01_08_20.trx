@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="9eedf048-bc8b-4738-a565-3626a525bcf2" name="merlin@MERLINS 2011-11-03 01:08:20" runUser="merlins\merlin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Lokal" id="4903a97b-9659-459e-ab6a-751674e3c6a4">
+    <Description>Dies sind die standardmäßigen Testeinstellungen für einen lokalen Testlauf.</Description>
+    <Deployment enabled="false" runDeploymentRoot="merlin_MERLINS 2011-11-03 01_08_20" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-11-03T01:08:20.9741848+01:00" queuing="2011-11-03T01:08:23.5633329+01:00" start="2011-11-03T01:08:23.8973520+01:00" finish="2011-11-03T01:08:25.6884544+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="d:\merlin\dropbox\dropbox\m1-programming\visualprojekte\tdd\testproject1\bin\debug\testproject1.dll" id="59863143-3238-122e-4d8a-637b491cc755">
+      <Execution id="c30805bf-4dfc-47f6-b548-fb1fe504ae69" />
+      <TestMethod codeBase="D:/MERLIN/DropBox/Dropbox/M1-Programming/VisualProjekte/TDD/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Nicht in einer Liste enthaltene Ergebnisse" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Alle geladenen Ergebnisse" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="59863143-3238-122e-4d8a-637b491cc755" executionId="c30805bf-4dfc-47f6-b548-fb1fe504ae69" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c30805bf-4dfc-47f6-b548-fb1fe504ae69" testId="59863143-3238-122e-4d8a-637b491cc755" testName="TestMethod1" computerName="MERLINS" duration="00:00:00.0377834" startTime="2011-11-03T01:08:24.0153588+01:00" endTime="2011-11-03T01:08:25.6054497+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c30805bf-4dfc-47f6-b548-fb1fe504ae69">
+    </UnitTestResult>
+  </Results>
+</TestRun>
